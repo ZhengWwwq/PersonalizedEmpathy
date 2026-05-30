@@ -58,9 +58,9 @@ See [prepare_dataset/README.md](prepare_dataset/README.md) for details.
 
 ### PereGRM Training
 
-PereGRM is  a reward modeling framework that combines the empathy evaluation structure with dynamic evaluation criteria generation for fine-grained reward modeling.
+PereGRM is a reward modeling framework that combines the empathy evaluation structure with dynamic evaluation criteria generation for fine-grained reward modeling.
 
-![](figs/peregr)
+![](figs/peregrm.png)
 
 First convert the final JSON dataset into verl-compatible parquet format:
 
